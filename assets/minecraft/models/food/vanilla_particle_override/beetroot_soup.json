@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/beetroot_soup",
+  "textures": {
+    "particle": "minecraft:food/beetroot_soup/particle"
+  }
+}

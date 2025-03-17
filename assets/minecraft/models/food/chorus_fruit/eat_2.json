@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:food/rotations/point_toward_mouth_third_person",
+  "textures": {
+    "layer0": "minecraft:food/chorus_fruit/eat_2"
+  }
+}

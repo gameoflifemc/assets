@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/apple",
+  "textures": {
+    "particle": "minecraft:food/apple/particle"
+  }
+}

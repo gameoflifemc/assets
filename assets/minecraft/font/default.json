@@ -1,0 +1,21 @@
+{"providers":[
+    {"type":"space","advances":{"\uEEEE":-10}},
+    {"type":"bitmap","chars":["🍎"],"file":"gui/font/icon/action.png","ascent":8,"height":9},
+    {"type":"bitmap","chars":["🍇"],"file":"gui/font/icon/chorus.png","ascent":8,"height":9},
+    {"type":"bitmap","chars":["\uE000"],"file":"gui/font/mark/debug.png","ascent":8,"height":8},
+    {"type":"bitmap","chars":["\uE001"],"file":"gui/font/mark/discord.png","ascent":8,"height":8},
+    {"type":"bitmap","chars":["\uE002"],"file":"gui/font/mark/error.png","ascent":8,"height":8},
+    {"type":"bitmap","chars":["\uE003"],"file":"gui/font/mark/info.png","ascent":8,"height":8},
+    {"type":"bitmap","chars":["\uE004"],"file":"gui/font/mark/success.png","ascent":8,"height":8},
+    {"type":"bitmap","chars":["\uE005"],"file":"gui/font/mark/warning.png","ascent":8,"height":8},
+    {"type":"bitmap","chars":["\uE006"],"file":"gui/font/icon/shift.png","ascent":9,"height":12},
+    {"type":"bitmap","chars":["\uE007"],"file":"gui/font/icon/rightclick.png","ascent":9,"height":11},
+    {"type":"bitmap","chars":["\uE008"],"file":"gui/font/icon/leftclick.png","ascent":9,"height":11},
+    {"type":"bitmap","chars":["\uE009"],"file":"gui/font/hud/background/black.png","ascent":512,"height":2500},
+    {"type":"bitmap","chars":["\uE010"],"file":"gui/font/hud/logo.png","ascent":89,"height":90},
+    {"type":"bitmap","chars":["\uE011"],"file":"gui/font/hud/info.png","ascent":8,"height":108},
+    {"type":"bitmap","chars":["\uE012"],"file":"gui/font/rank/admin.png","ascent":8,"height":10},
+    {"type":"bitmap","chars":["\uE013"],"file":"gui/font/rank/dev.png","ascent":8,"height":10},
+    {"type":"bitmap","chars":["\uE014"],"file":"gui/font/rank/mod.png","ascent":8,"height":10},
+    {"type":"bitmap","chars":["\uE015"],"file":"gui/font/rank/youtube.png","ascent":8,"height":10}
+]}

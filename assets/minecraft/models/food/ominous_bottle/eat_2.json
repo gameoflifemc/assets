@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:food/rotations/bottle/point_toward_mouth_2",
+  "textures": {
+    "layer0": "minecraft:food/ominous_bottle/eat_2"
+  }
+}

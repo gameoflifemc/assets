@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/melon_slice",
+  "textures": {
+    "particle": "minecraft:food/melon_slice/particle"
+  }
+}

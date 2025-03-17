@@ -1,0 +1,13 @@
+{
+    "item.spyglass.use":{"sounds":[
+        {"name":"item/armor/equip_iron1","volume":1.0},
+        {"name":"item/armor/equip_iron2","volume":1.0},
+        {"name":"item/armor/equip_iron3","volume":1.0},
+        {"name":"item/armor/equip_iron4","volume":1.0},
+        {"name":"item/armor/equip_iron5","volume":1.0},
+        {"name":"item/armor/equip_iron6","volume":1.0}
+    ],"replace":true},
+    "item.spyglass.stop_using":{"sounds":[
+        {"name":"item/armor/equip_iron1","volume":0.001}
+    ],"replace":true}
+}

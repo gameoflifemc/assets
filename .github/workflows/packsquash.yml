@@ -1,0 +1,22 @@
+on: [push]
+permissions: 
+  actions: read
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest-unstable
+          options: |
+            zip_spec_conformance_level = 'disregard'
+            pack_directory = '.'
+            output_file_path = 'GameOfLife.zip'
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{github.run_number}}
+          files: GameOfLife.zip

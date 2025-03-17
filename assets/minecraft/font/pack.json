@@ -1,0 +1,4 @@
+{"providers":[
+    {"type":"space","advances":{"v":-157,"c":-36}},
+    {"type":"bitmap","file":"gui/font/hud/pack.png","ascent":21,"height":36,"chars":["a"]}
+]}

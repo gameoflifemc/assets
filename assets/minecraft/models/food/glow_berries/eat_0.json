@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:food/rotations/point_toward_mouth_carrot_third_person_only",
+  "textures": {
+    "layer0": "minecraft:item/glow_berries"
+  }
+}

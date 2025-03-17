@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/rabbit_stew",
+  "textures": {
+    "particle": "minecraft:food/rabbit_stew/particle"
+  }
+}

@@ -1,0 +1,8 @@
+{"providers":[
+    {"type":"space","advances":{" ":4,"#":-90,"+":-1}},
+    {"type":"bitmap","file":"gui/font/hud/background/black.png","ascent":512,"height":2500,"chars":["0"]},
+    {"type":"bitmap","file":"gui/font/hud/tutorial/lobby.png","ascent":-2,"height":256,"chars":["@"]},
+    {"type":"bitmap","file":"gui/font/hud/background/farm.png","ascent":256,"height":512,"chars":["1"]},
+    {"type":"bitmap","file":"gui/font/hud/tutorial/farm_1.png","ascent":21,"height":56,"chars":["2"]},
+    {"type":"bitmap","file":"gui/font/hud/tutorial/farm_2.png","ascent":21,"height":56,"chars":["3"]}
+]}

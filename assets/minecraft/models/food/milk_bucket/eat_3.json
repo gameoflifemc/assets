@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:food/rotations/bucket/point_toward_mouth_3",
+  "textures": {
+    "layer0": "minecraft:food/milk_bucket/eat_3"
+  }
+}

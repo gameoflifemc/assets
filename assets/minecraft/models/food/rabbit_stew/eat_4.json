@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:food/rotations/bowl/point_toward_mouth_4",
+  "textures": {
+    "layer0": "minecraft:food/rabbit_stew/eat_4"
+  }
+}

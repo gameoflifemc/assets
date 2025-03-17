@@ -1,0 +1,4 @@
+#define TWOPI 6.283185307179586
+#define FADEDISTANCE 80.0
+#define FADESCALE 10.0
+#define FADECOLOR vec3(0.0, 1.0, 0.75)

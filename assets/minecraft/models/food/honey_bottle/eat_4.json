@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:food/rotations/bottle/point_toward_mouth_4",
+  "textures": {
+    "layer0": "minecraft:food/honey_bottle/eat_4",
+    "layer1": "minecraft:food/bottle_no_cork"
+  }
+}

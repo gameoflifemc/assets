@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "armor",
+            "prefix": "armor/"
+        },
+        {
+            "type": "directory",
+            "source": "food",
+            "prefix": "food/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        }
+    ]
+}

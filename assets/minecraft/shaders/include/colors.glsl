@@ -1,0 +1,2 @@
+#define BRAND_COLOR 0.16, 0.44, 0.93
+#define BRAND_SHADOW 0.04, 0.11, 0.23

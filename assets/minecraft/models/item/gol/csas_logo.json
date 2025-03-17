@@ -1,0 +1,24 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [1888, 912],
+	"textures": {
+		"0": "item/gol/csas_logo",
+		"particle": "item/gol/csas_logo"
+	},
+	"elements": [
+		{
+			"from": [-8, 0, 7.75],
+			"to": [24, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 0, -0.01],
+			"scale": [2, 2, 1]
+		}
+	}
+}

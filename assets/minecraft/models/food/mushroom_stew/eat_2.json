@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:food/rotations/bowl/point_toward_mouth_2",
+  "textures": {
+    "layer0": "minecraft:food/mushroom_stew/eat_2"
+  }
+}

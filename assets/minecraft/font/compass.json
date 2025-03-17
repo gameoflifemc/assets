@@ -1,0 +1,14 @@
+{"providers":[
+    {"type":"space","advances":{"_":3}},
+    {"type":"bitmap","file":"gui/font/character/compass.png","ascent":22,"height":28,"chars":["\u0030\u0031\u0032\u0033\u0034\u0035\u0036\u0037\u0038\u0039\u004e\u0045\u0053\u0057"]},
+    {"type":"bitmap","file":"gui/font/hud/compass.png","ascent":10,"height":384,"chars":["@"]},
+    {"type":"bitmap","file":"gui/font/icon/mine.png","ascent":48,"height":48,"chars":["M"]},
+    {"type":"bitmap","file":"gui/font/icon/farm.png","ascent":48,"height":48,"chars":["F"]},
+    {"type":"bitmap","file":"gui/font/icon/bank.png","ascent":48,"height":48,"chars":["B"]},
+    {"type":"bitmap","file":"gui/font/icon/boat.png","ascent":48,"height":48,"chars":["O"]},
+    {"type":"bitmap","file":"gui/font/icon/school.png","ascent":48,"height":48,"chars":["C"]},
+    {"type":"bitmap","file":"gui/font/icon/shop.png","ascent":48,"height":48,"chars":["H"]},
+    {"type":"bitmap","file":"gui/font/icon/spawn.png","ascent":48,"height":48,"chars":["P"]},
+    {"type":"bitmap","file":"gui/font/icon/tavern.png","ascent":48,"height":48,"chars":["T"]},
+    {"type":"bitmap","file":"gui/font/icon/village.png","ascent":48,"height":48,"chars":["V"]}
+]}
