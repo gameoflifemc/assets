@@ -51,7 +51,7 @@ void main() {
 #ifdef TRANSLUCENT
     vec4 dataPixel = texture(Sampler0, vec2(0.0, 0.0));
     blinking = 0;
-    if (dataPixel.a == 1 && dataPixel.rgb == vec3(BRAND_COLOR)) {
+    if (dataPixel.a == 1 && dataPixel.rgb == vec3(0.6, 0.26666667, 1)) {
         blinking = 1;
     }
 #endif
