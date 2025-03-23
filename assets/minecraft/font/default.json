@@ -1,7 +1,5 @@
 {"providers":[
     {"type":"space","advances":{"\uEEEE":-10}},
-    {"type":"bitmap","chars":["🍎"],"file":"gui/font/icon/action.png","ascent":8,"height":9},
-    {"type":"bitmap","chars":["🍇"],"file":"gui/font/icon/chorus.png","ascent":8,"height":9},
     {"type":"bitmap","chars":["\uE000"],"file":"gui/font/mark/debug.png","ascent":8,"height":8},
     {"type":"bitmap","chars":["\uE001"],"file":"gui/font/mark/discord.png","ascent":8,"height":8},
     {"type":"bitmap","chars":["\uE002"],"file":"gui/font/mark/error.png","ascent":8,"height":8},

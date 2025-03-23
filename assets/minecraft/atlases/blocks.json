@@ -7,13 +7,83 @@
         },
         {
             "type": "directory",
+            "source": "crate",
+            "prefix": "crate/"
+        },
+        {
+            "type": "directory",
+            "source": "dungeon",
+            "prefix": "dungeon/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
             "source": "food",
             "prefix": "food/"
         },
         {
             "type": "directory",
+            "source": "furniture",
+            "prefix": "furniture/"
+        },
+        {
+            "type": "directory",
             "source": "gui",
             "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "hat",
+            "prefix": "hat/"
+        },
+        {
+            "type": "directory",
+            "source": "key",
+            "prefix": "key/"
+        },
+        {
+            "type": "directory",
+            "source": "material",
+            "prefix": "material/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "mob_effect",
+            "prefix": "mob_effect/"
+        },
+        {
+            "type": "directory",
+            "source": "mythic",
+            "prefix": "mythic/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "particle",
+            "prefix": "particle/"
+        },
+        {
+            "type": "directory",
+            "source": "portal",
+            "prefix": "portal/"
+        },
+        {
+            "type": "directory",
+            "source": "weapon",
+            "prefix": "weapon/"
         }
     ]
 }

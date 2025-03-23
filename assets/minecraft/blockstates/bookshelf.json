@@ -1,6 +1,6 @@
 {
     "multipart": [
         {   "apply": { "model": "minecraft:block/bookshelf" }},
-		{   "apply": [{ "model": "minecraft:block/book_on_bookshelf","weight": 10 }, { "model": "minecraft:block/book_on_bookshelf_2","weight": 10 }, { "model": "minecraft:block/book_on_bookshelf_snochog","weight": 1 }, { "model": "minecraft:block/book_on_bookshelf_3","weight": 10 }, { "model": "minecraft:block/no_book_on_bookshelf","weight": 69 }]}
+		{   "apply": [{ "model": "minecraft:block/book_on_bookshelf","weight": 10 }, { "model": "minecraft:block/book_on_bookshelf_2","weight": 10 }, { "model": "minecraft:block/book_on_bookshelf_3","weight": 10 }, { "model": "minecraft:block/no_book_on_bookshelf","weight": 70 }]}
     ]
 }
